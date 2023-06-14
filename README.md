@@ -1,5 +1,5 @@
 # Customer_Registration-Login_Security_Token
-This project is an application built using the Spring Boot framework. It provides a secure and efficient solution for customer registration and login functionality. The primary objective of this project is to demonstrate the integration of Spring Boot, database connectivity, and Spring Security.
+This project is an application built using the Spring Boot framework. It provides a secure and efficient solution for customer registration and login functionality. The primary objective of this project is to demonstrate the integration of Spring Boot, database connectivity, and Spring Security. 
 
 # Sequence Diagram
 ![Sequence Diagram](Diagrams/SequenceDiagram.jpg)
